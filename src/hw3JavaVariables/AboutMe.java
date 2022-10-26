@@ -17,7 +17,7 @@ public class AboutMe {
 	public boolean usCitizen = true;
 
 	public static void main(String[] args) {
-
+//
 		AboutMe aboutMe = new AboutMe();
 
 		System.out.println("My Name: " + aboutMe.myName);
