@@ -1,6 +1,7 @@
 package hw4JavaVariables;
 
 public class AboutMe {
+	//Variables are declared Here
 	public String myName;
 	public byte myAge;
 	public char mySex;
@@ -31,3 +32,4 @@ public class AboutMe {
 	}
 
 }
+//
