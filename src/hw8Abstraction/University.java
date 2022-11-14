@@ -1,6 +1,7 @@
 package hw8Abstraction;
 
 public interface University {
+	//method declared.
 	public void classSize();
 
 	public void playGround();
