@@ -2,13 +2,15 @@ package hw8Abstraction;
 
 public interface University {
 	public void classSize();
+
 	public void playGround();
+
 	public void teacher();
-	
-	/* public University() {
-		
-	}
-	*/
-	//Interface cannot be instantiated (cannot create object)
+
+	/*
+	 * public University() { } In Java, We can not create a Constructor inside
+	 * Interface because All data members in interfaces are public static final by
+	 * default, They are constant. They are abstract by nature.
+	 */
 
 }
