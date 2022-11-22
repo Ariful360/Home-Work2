@@ -1,6 +1,6 @@
 package hw9Abstraction;
 
-public class NYUniversity {
+public class NYUniversity { 
 
 	// method implemented
 	public void anthropology() {

@@ -1,6 +1,6 @@
 package hw9Abstraction;
 
-public class ColumbiaUniversity extends MedicalSchool {
+public class ColumbiaUniversity{
 
 	// method implemented
 	public void chemistry() {
